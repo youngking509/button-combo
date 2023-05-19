@@ -11,7 +11,7 @@ def on_select(event):
     print("Selected item:", selected_item)
 
 
-#
+#the root
 root = tk.Tk()
 root.title("King is funny")
 
